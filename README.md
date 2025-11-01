@@ -85,5 +85,3 @@ A pasta /vendor foi ignorada no repositório por meio do .gitignore,
 mas pode ser recriada automaticamente executando o comando:
    ```bash
    composer install
-   ```bash
-   git clone https://github.com/SEU_USUARIO/Controle-de-Estoque-ETEC.git
