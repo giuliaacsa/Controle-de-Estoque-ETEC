@@ -39,7 +39,7 @@ O arquivo `estoque_etec.sql` está localizado na pasta `/database`.
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/Controle-de-Estoque-ETEC.git
+   git clone https://github.com/giuliaacsa/Controle-de-Estoque-ETEC.git
    
 2. Acesse a pasta do projeto:
    ```bash
@@ -51,7 +51,7 @@ O arquivo `estoque_etec.sql` está localizado na pasta `/database`.
 
 4. Configure as informações de conexão com o banco de dados (ex: config.php).
 
-5. Importe o arquivo banco_de_dados.sql no phpMyAdmin.
+5. Importe o arquivo estoque_etec.sql no phpMyAdmin.
 
 6. Inicie o servidor local (por exemplo, com XAMPP) e acesse:
     ```bash
@@ -59,7 +59,7 @@ O arquivo `estoque_etec.sql` está localizado na pasta `/database`.
 
 ## 📚 Aprendizados
 
-  * Durante o desenvolvimento deste projeto, pude aprimorar habilidades de:
+Durante o desenvolvimento deste projeto, pude aprimorar habilidades de:
 
   * Estruturação de sistemas de controle com PHP e MySQL
 
@@ -74,6 +74,7 @@ O arquivo `estoque_etec.sql` está localizado na pasta `/database`.
 ## 👩‍💻 Autora
 
 **Giulia Acsa dos Santos Muniz**
+
 Estudante do curso técnico em Desenvolvimento de Sistemas — ETEC de Bragança Paulista
 
 📫 LinkedIn:
