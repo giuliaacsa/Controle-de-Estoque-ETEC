@@ -22,7 +22,8 @@ O projeto foi idealizado e desenvolvido **de forma independente**, com o objetiv
 - **MySQL** — Banco de dados para armazenamento das informações  
 - **HTML5** — Estrutura das páginas  
 - **CSS3** — Estilização e responsividade  
-- **JavaScript** — Interatividade e validações dinâmicas  
+- **JavaScript** — Interatividade e validações dinâmicas
+- **Chart.js** - Gráficos 
 - **Bootstrap** — Layout limpo e responsivo  
 - **Composer** — Gerenciador de dependências (utilizado para biblioteca de PDF)
 
